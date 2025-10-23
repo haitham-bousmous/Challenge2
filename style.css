@@ -1,0 +1,76 @@
+body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #fefaf5;
+      color: #333;
+      margin: 0;
+      padding: 0;
+}
+header {
+    background: border-box #c49a6c;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+header img {
+    width: 300px;
+    border-radius: 15px;
+}
+.search {
+    background-color: #c49a6c;
+    padding: 10px;
+    text-align: center;
+}
+input[type="search1"] {
+    padding: 8px;
+    width: 200px;
+    border-radius: 4px;
+}
+.links {
+    display: flex;
+    gap: 15px;   
+}
+.links a {
+    color: white;
+    text-decoration: wavy;
+}
+.imgs {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+}
+.imgs img {
+    width: 450px;
+    border-radius: 10px;
+}
+.pastilla {
+    background-color: crimson;
+    color: #fff;
+    border-top: none;
+    width: 100%;
+    justify-content: center;
+    border-radius: 15px;
+    display: flex;
+
+}
+.tajine {
+    background-color: crimson;
+    color: #fff;
+    border-top: none;
+    width: 100%;
+    justify-content: center;
+    border-radius: 15px;
+    display: flex;
+
+}
+.couscous {
+    background-color: crimson;
+    color: #fff;
+    border-top: none;
+    width: 100%;
+    justify-content: center;
+    border-radius: 15px;
+    display: flex;
+
+}
